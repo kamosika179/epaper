@@ -22,3 +22,4 @@ pip install requests
 ・makeimage.pyのフォントの設定をする / setting font in makeimage.py
 
 ・eink2_13_show_toggltime.pyを実行する / run eink2_13_show_toggltime.py
+
